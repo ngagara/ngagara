@@ -62,20 +62,6 @@
         width="40"
         height="40"
       />&nbsp;
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
-        title="Git"
-        **alt="Git"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        title="docker"
-        **alt="Gidockert"
-        width="40"
-        height="40"
-      />
     </div>
 &nbsp;
     <div align="center">
