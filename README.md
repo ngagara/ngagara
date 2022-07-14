@@ -65,9 +65,11 @@
     </div>
 &nbsp;
     <div align="center">
+    <a href="https://www.codewars.com/users/ngagara" target="_blank">
       <img
         src="https://www.codewars.com/users/ngagara/badges/large"
         alt="codewars"
         width="300"
       />
+      </a>
     </div>
